@@ -1,10 +1,10 @@
 # shell-alias
 
-자주 사용하는 shell alias 모음입니다.
+자주 사용하는 shell alias 모음
 
 ## 설치
 
-1. 저장소를 클론합니다:
+1. 저장소 클론:
 
 ```bash
 git clone https://github.com/hve4638/shell-alias.git ~/shell-alias
